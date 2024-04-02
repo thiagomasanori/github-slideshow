@@ -1,0 +1,25 @@
+<mxfile host="app.diagrams.net" modified="2024-04-02T20:28:34.109Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:124.0) Gecko/20100101 Firefox/124.0" etag="tFFjmpHgSNbkgqnBIvVL" version="24.2.1" type="github">
+  <diagram name="Page-1" id="Pcb8tLMMHtzgbbzyn9bM">
+    <mxGraphModel dx="1384" dy="1512" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gY5CEI-izo7ZNCtMIDnW-6" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="gY5CEI-izo7ZNCtMIDnW-1" target="gY5CEI-izo7ZNCtMIDnW-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gY5CEI-izo7ZNCtMIDnW-1" value="&lt;div&gt;&lt;b&gt;Módulo de Entrada&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(Sensor biométrico, Leitor de RFID, Autenticador)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-68" y="-649" width="129" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="gY5CEI-izo7ZNCtMIDnW-7" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="gY5CEI-izo7ZNCtMIDnW-3" target="gY5CEI-izo7ZNCtMIDnW-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gY5CEI-izo7ZNCtMIDnW-3" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Módulo de Processamento&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(Firmware/Software)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="165" y="-649" width="129" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="gY5CEI-izo7ZNCtMIDnW-5" value="&lt;div&gt;&lt;b&gt;Módulo de Saída&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;(Fechadura, alarme, sinalização)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="398" y="-649" width="129" height="104" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
